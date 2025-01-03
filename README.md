@@ -3,7 +3,7 @@
 * abaixo os passos de sua criação e testes.
 
 Começamos com a criação de uma pasta chamada 'projeto-ransomware' e a criação dos programas que serão usados para criptografar e descriptografar uma mensagem,
-"encryption.py" e "decryption.py", respectivamente.
+"encryption.py" e "decryption.py", respectivamente e do arquivo .txt.
 
 usando o "nano" colocamos o código dentro do arquivo e para escrever uma mensagem no arquivo .txt
 
