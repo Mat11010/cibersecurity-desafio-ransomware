@@ -24,8 +24,8 @@ usando o nano podemos ver:
 
 agora escrevemos o programa para descriptografar a mensagem
 
-<img src="Captura de tela 2025-01-03 155757.png">
 <img src="Captura de tela 2025-01-03 152828.png">
+<img src="Captura de tela 2025-01-03 155757.png">
 
 o arquivo .txt ainda está criptografado
 
