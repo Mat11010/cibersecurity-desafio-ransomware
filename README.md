@@ -29,7 +29,7 @@ agora escrevemos o programa para descriptografar a mensagem
 
 o arquivo .txt ainda está criptografado
 
-<img src="Captura de tela 2025-01-03 154411.png">
+<img src="Captura de tela 2025-01-03 152719.png">
 
 usamos o programa para descriptografar agora
 
