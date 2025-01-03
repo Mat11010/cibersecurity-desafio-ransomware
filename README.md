@@ -18,10 +18,12 @@ agora chamado "teste.txt.ransomwaretroll"
 <img src="Captura de tela 2025-01-03 152718.png">
 
 usando o nano podemos ver:
+
 <img src="Captura de tela 2025-01-03 152943.png">
 <img src="Captura de tela 2025-01-03 153209.png">
 
 agora escrevemos o programa para descriptografar a mensagem
+
 <img src="Captura de tela 2025-01-03 155757.png">
 <img src="Captura de tela 2025-01-03 152828.png">
 
