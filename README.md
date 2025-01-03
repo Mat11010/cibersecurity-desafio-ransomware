@@ -20,12 +20,17 @@ agora chamado "teste.txt.ransomwaretroll"
 usando o nano podemos ver:
 <img src="Captura de tela 2025-01-03 152943.png">
 <img src="Captura de tela 2025-01-03 153209.png">
+
 agora escrevemos o programa para descriptografar a mensagem
-<img src="Captura de tela 2025-01-03 152828.png">
 <img src="Captura de tela 2025-01-03 155757.png">
+<img src="Captura de tela 2025-01-03 152828.png">
 
 o arquivo .txt ainda está criptografado
+
 <img src="Captura de tela 2025-01-03 154411.png">
+
 usamos o programa para descriptografar agora
+
 <img src="Captura de tela 2025-01-03 153003.png">
+
 novamente temos o arquivo .txt novamente basta abrí-lo para ver a mensagem descriptografada
